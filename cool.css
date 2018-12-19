@@ -1,0 +1,29 @@
+ul{
+    list-style-type: circle;
+}
+
+li{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+th a:hover{
+    background-color: wheat;
+    color: brown;
+}
+
+th a {
+    display: block;
+    color: darkslateblue;
+    text-align: center;
+    padding: 12px;
+    text-decoration: saddlebrown;
+    background-color: lightgoldenrodyellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+}
+
+th{
+    float: inherit;
+}
