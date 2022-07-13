@@ -1,5 +1,5 @@
 # web_tutorial_B0K32A
-> View on [![Heroku App]](https://b0k32a-webtutor.herokuapp.com) OR on [![Github Page]](https://notkaramel.github.io/web_tutorial_B0K32A/)
+> View on [Heroku App](https://b0k32a-webtutor.herokuapp.com) OR on [Github Page](https://notkaramel.github.io/web_tutorial_B0K32A/)
 
 ### Chiếc website front-end viết chay bằng HTML/CSS thuần :))
 ### A front-end website written in pure HTML/CSS.
